@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" alt="Refact" src="https://raw.githubusercontent.com/smallcloudai/refact/main/refact-logo.svg"/>
+  <img width="300" alt="Refact" src="https://github.com/user-attachments/assets/f1e5e05f-0066-42cd-be05-8900ec9af9ed"/>
 </p>
 
 <p align="center">
