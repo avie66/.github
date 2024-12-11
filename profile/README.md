@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-Refact is a powerful AI coding assistant that combines completion, refactoring, chat, and more. Get work done faster with context-aware code completion, integrated in-IDE chat, and a powerful Toolbox — all tailored to your needs. Use it on your dedicated self-hosted server or in the cloud.
+Refact is a powerful AI coding assistant that combines completion, refactoring, chat, and more. Get work done faster with context-aware code completion, integrated in-IDE chat. Use it on your dedicated self-hosted server or in the cloud.
 </p>
 
 ## Learn more about Refact.ai
