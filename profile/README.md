@@ -9,7 +9,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=refact_ai">
     <img src="https://img.shields.io/twitter/follow/refact_ai" alt="Follow @refact_ai" />
   </a>
-  <img src="https://img.shields.io/github/license/smallcloudai/refact?cacheSeconds=1000" alt="Refact is under a BSD-3-Clause license" />
+
   <a href="https://marketplace.visualstudio.com/items?itemName=smallcloud.codify">
     <img src="https://img.shields.io/visual-studio-marketplace/d/smallcloud.codify?label=VS%20Code" alt="Get a VS Code plugin" />
   </a>
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-Refact is a powerful AI coding assistant that combines completion, refactoring, chat, and more. Get work done faster with context-aware code completion, integrated in-IDE chat. Use it on your dedicated self-hosted server or in the cloud.
+Refact.ai is an open-source AI Agent that handles engineering tasks end-to-end. It deeply understands your codebases and integrates with your tools, databases, and browsers to automate complex, multi-step tasks.
 </p>
 
 ## Learn more about Refact.ai
@@ -42,5 +42,5 @@ Refact is a powerful AI coding assistant that combines completion, refactoring, 
 
 [Follow Us on Socials 🐤:](https://www.linkedin.com/company/refactai/) Stay in the loop with news, updates, and insights from Refact.ai.
 
-Apply to Refact.ai Through Our Careers Page 🧑‍💻: [We’re HIRING!](https://refact.ai/careers/) Join our team and help shape the future of programming!
+
 
